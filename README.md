@@ -4,6 +4,6 @@
 ## How To Use
 ```gradle
 dependencies {
-    annotationProcessor 'libs/statlib-processor-1.0.0.jar'
+    annotationProcessor files('libs/statlib-processor-1.0.0.jar')
 }
 ```
